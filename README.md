@@ -29,7 +29,7 @@ Bem-vindo(a) ao meu repositório! Aqui estão armazenados todos os cursos, trein
  ┃ ┗ 📄 Project_Files  
  ┗ 📂 Course_Name_3  
    ┗ 📄 Project_Files  
-
+```
 ## 💡 **Purpose** | **Propósito**  
 - **English:**  
   This repository is a showcase of my learning progress and serves as a reference for future projects.  
@@ -62,5 +62,5 @@ Bem-vindo(a) ao meu repositório! Aqui estão armazenados todos os cursos, trein
 - **English:** Feel free to connect if you have questions or suggestions!  
 - **Português:** Fique à vontade para entrar em contato caso tenha dúvidas ou sugestões!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gustavo-lima-5a26641a4/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/guplima1986)  
